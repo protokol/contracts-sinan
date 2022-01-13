@@ -18,8 +18,10 @@ Over the past 5 years Carbon Credits have achieved growth of 690% and a Sharpe R
 
 - Sinan Energy Token Launch Information (https://www.sinanenergy.com/sinan-energy-token-launch/)
 - Slide Deck With More Details (https://files.elfsight.com/storage/9811ec6f-5cb3-4406-b506-4eb478072e56/177d8a57-b98e-4f07-97cd-9c4dbc56dd30.pdf)
+- Presentation Video 1 (https://www.youtube.com/watch?v=a8C20pd9yiY)
+- Presentation Video 2 (https://www.youtube.com/watch?v=bHkjIa-_MFU)
 
-# Setup and Running 
+# Source Code
 ## Contracts Sinan
 > Project contains solidity smart contracts for solidity project
 
