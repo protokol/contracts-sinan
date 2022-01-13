@@ -1,3 +1,4 @@
+![Img-Banner](docs/banner.png)
 
 # Introduction 
 Sinan Energy is a blockchain enabled decentralized energy utility that builds tokenized renewable energy power plants – enabling individual and institutional investors and major corporates to accumulate carbon credits directly from the operation of utility scale power infrastructure
